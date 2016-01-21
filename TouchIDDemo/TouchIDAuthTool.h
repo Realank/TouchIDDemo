@@ -22,7 +22,7 @@
  kLAErrorInvalidContext－LAContext对象被意外释放
  */
 /* 不支持TouchID验证
- kLAErrorPasscodeNotSet－用户没有设置密码
+ kLAErrorPasscodeNotSet－用户没有设置密码 
  kLAErrorTouchIDNotAvailable－TouchID功能不可用
  kLAErrorTouchIDNotEnrolled－TouchID没有可用指纹
  */
