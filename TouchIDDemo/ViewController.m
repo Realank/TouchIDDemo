@@ -9,8 +9,6 @@
 #import "ViewController.h"
 #import "TouchIDAuthTool.h"
 
-#define OS_HIGHER_8 ([[[UIDevice currentDevice] systemVersion] floatValue] >= 8.0)
-
 @interface ViewController ()
 
 @end
